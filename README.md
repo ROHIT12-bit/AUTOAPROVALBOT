@@ -16,4 +16,4 @@
   - `MONGO_URI` - Mongodb database 
 ## 💫 Credits
  
- - <b>[ROHIT, HUNTER, NAUTRO, ADITYA](https://youtube.com/@Tech_VJ)</b>
+ - <b>[ROHIT, HUNTER, NAUTRO, ADITYA](https://t.me/BOTSKINGDOMS)</b>
