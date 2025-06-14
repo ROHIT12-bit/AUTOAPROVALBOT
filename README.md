@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/sp9F7xfB">
+  <img src="![Image](https://github.com/user-attachments/assets/8cf8d4be-3cf8-4527-a0ba-10339bd6a4de)">
 </p>
 <h1 align="center">
   BOTSKINGDOMS 
