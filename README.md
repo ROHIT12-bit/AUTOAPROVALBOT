@@ -2,7 +2,7 @@
   <img src="https://ibb.co/sp9F7xfB">
 </p>
 <h1 align="center">
-  VJ FILE STORE BOT
+  BOTSKINGDOMS 
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+TO+BOT;A+Highly+Advance+AUTO+APPROVAL+BOT+BY@BOTSKINGDOMS;+A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
