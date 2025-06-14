@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://ibb.co/sp9F7xfB">
+</p>
+<h1 align="center">
+  VJ FILE STORE BOT
+</h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+TO+BOT;A+Highly+Advance+AUTO+APPROVAL+BOT+BY@BOTSKINGDOMS;+A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
+</p>
+
+
 # BOTSKINGDOMS
 
 **👾 Hey I'll Accept New Telegram Channel Or Group Join Request. Easy To Use And Simple.**
